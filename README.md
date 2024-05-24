@@ -2,7 +2,7 @@
 A trainee advanture in programing world...
 It is often good to experiment :)
 
-### MORE ABOUT ME😅:
+### MORE ABOUT ME:
 - intersted in machine learning 
 - student at guilan university
 
