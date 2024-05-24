@@ -1,10 +1,10 @@
 ## about me 
+A trainee advanture in programing world...
+It is often good to experiment :)
 
-student at guilan university\
-php & python programmer\
-enthusiast in solving problems and learning new things... 
-
-
+### MORE ABOUT ME😅:
+- intersted in machine learning 
+- student at guilan university
 
 ### Programming languages ​​I work with
 1. python 80%
@@ -14,11 +14,8 @@ enthusiast in solving problems and learning new things...
 5. c++ 20%
 6. Assembly 20%
 
-### MORE ABOUT ME😅:
-- I I do programming because it is fun for me; Like other good programmers...
-- I love solving problems...
-- I really like to leave my work to the machine
-- Interested in the field of artificial intelligence and FPGA
+
+  
 
 
 
