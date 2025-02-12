@@ -1,34 +1,11 @@
-## about me 
-A trainee advanture in programing world...
-It is often good to experiment :)
+## About Me  
 
-### MORE ABOUT ME:
-- intersted in machine learning 
-- student at guilan university
+I am an **undergraduate student at the University of Guilan** and a **researcher** specializing in **Machine Learning and Artificial Intelligence**. My research focuses on **Continual Learning, particularly Online Continual Learning (OCL)**. I also have a interest in **Hardware Design and Embedded Systems**.  
 
-### Programming languages ​​I work with
-1. python 80%
-2. php  80%
-3. VHDL 60%
-4. java  50%
-5. c++ 20%
-6. Assembly 20%
+### Research & Development Interests:  
+- **Machine Learning & Artificial Intelligence** – Image processing, pattern recognition, and continual learning  
+- **Natural Language Processing** – Retrieval-augmented generation (RAG) and chatbot development  
+- **Embedded Systems & Hardware Design** – FPGA programming, VHDL, and digital system implementation (interest)  
+- **Software Development** – Algorithm design, optimization, and problem-solving  
 
-
-  
-
-
-
-
-
-<!--
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about exploring cutting-edge technologies and contributing to innovative projects in AI, software engineering, and hardware development. I am always open to collaboration and knowledge sharing.  
